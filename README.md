@@ -20,7 +20,7 @@ Output: 3
 3. Your runtime complexity should be less than O(n2).
 4. There is only one duplicate number in the array, but it could be repeated more than once.
 
-# Implementation :
+# Implementation : O(n)
 ```java
 class Solution {
     public int findDuplicate(int[] nums) {
