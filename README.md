@@ -46,3 +46,4 @@ class Solution {
 
 # References :
 1. https://leetcode.com/articles/find-the-duplicate-number
+2. https://www.youtube.com/watch?v=LUm2ABqAs1w (Why Floyd's cycle algorithm work)
